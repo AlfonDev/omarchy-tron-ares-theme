@@ -2,7 +2,7 @@
 
 # TRON: ARES — OMARCHY THEME
 
-**High-contrast neon red & pure white theme for [Omarchy](https://omarchy.org), inspired by *Tron: Ares* and Dillinger Systems terminals.**
+**High-contrast neon red & pure white theme for Omarchy, inspired by *Tron: Ares* and Dillinger Systems terminals.**
 
 ![License](https://shields.io)
 ![Platform](https://shields.io)
@@ -14,9 +14,12 @@
 
 ## Preview
 
-| Desktop & Launcher | Tiling & Terminal (`btop` / `fastfetch`) |
+### Desktop & Launcher
+![Desktop & Launcher](screenshots/desktop.png)
+
+| Tiling & Terminal (`btop` / `fastfetch`) | Clean Workspace |
 | :---: | :---: |
-| ![Desktop Preview](screenshots/desktop.png) | ![Tiling Preview](screenshots/tiling.png) |
+| ![Tiling Preview](screenshots/tiling.png) | ![Workspace Preview](screenshots/wallpaper.png) |
 
 ---
 
@@ -25,7 +28,7 @@
 Install directly using Omarchy's built-in theme manager:
 
 ```bash
-omarchy-theme-install https://github.com
+omarchy-theme-install https://github.com/AlfonDev/omarchy-tron-ares-theme
 ```
 
 Once installed, apply the theme from the Omarchy menu (**`Super + Alt + Space`** → *Style* → *Theme* → **`tron-ares`**) or via terminal:
@@ -67,5 +70,5 @@ Comes bundled with **5 high-resolution *Tron: Ares* wallpapers** inside `backgro
 ---
 
 <div align="center">
-  <sub>Created by <a href="https://github.com">AlfonDev</a> for the Omarchy community.</sub>
+  <sub>Created by <a href="https://github.com/AlfonDev">AlfonDev</a> for the Omarchy community.</sub>
 </div>
