@@ -4,8 +4,8 @@ accent = "#ff2e2e"
 selection = "#4a0b0b"
 muted = "#8f2424"
 
-background = "#07080d"
-dark_background = "#040508"
+background = "#000000"
+dark_background = "#000000"
 darker_background = "#000000"
 lighter_background = "#170b0d"
 
